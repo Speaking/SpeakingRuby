@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     asciidoctor (1.5.6.1)
-    rake (12.3.0)
+    rake (12.3.3)
 
 PLATFORMS
   ruby
@@ -10,4 +10,3 @@ PLATFORMS
 DEPENDENCIES
   asciidoctor
   rake
-
